@@ -35,7 +35,7 @@ print("4. Divide")
 print("5. Square")
 print("6. Square Root")
 
-choice = int(input("\nEnter choice "))
+choice = int(input("\nEnter choice:: "))
 
 if choice in (1, 2, 3, 4):
     num1 = int(input("enter first number"))
